@@ -1,1 +1,1 @@
-console.log("Hello Script");
+var x = 10;
