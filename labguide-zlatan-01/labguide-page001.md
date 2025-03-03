@@ -1,3 +1,3 @@
 kjkjjkj
-<question source="Q2" />
+<question source="Q2" /> <inject key="accesskey" enableCopy="true" enableClickToPaste="false" />
 Changes
